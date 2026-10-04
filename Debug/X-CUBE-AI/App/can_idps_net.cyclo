@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/can_idps_net.c:414:9:can_idps_net_configure_activations	2
+../X-CUBE-AI/App/can_idps_net.c:451:9:can_idps_net_configure_weights	2
+../X-CUBE-AI/App/can_idps_net.c:490:9:ai_can_idps_net_get_info	4
+../X-CUBE-AI/App/can_idps_net.c:537:9:ai_can_idps_net_get_report	4
+../X-CUBE-AI/App/can_idps_net.c:584:10:ai_can_idps_net_get_error	1
+../X-CUBE-AI/App/can_idps_net.c:591:10:ai_can_idps_net_create	1
+../X-CUBE-AI/App/can_idps_net.c:602:10:ai_can_idps_net_create_and_init	8
+../X-CUBE-AI/App/can_idps_net.c:637:12:ai_can_idps_net_inputs_get	2
+../X-CUBE-AI/App/can_idps_net.c:648:12:ai_can_idps_net_outputs_get	2
+../X-CUBE-AI/App/can_idps_net.c:659:11:ai_can_idps_net_destroy	1
+../X-CUBE-AI/App/can_idps_net.c:666:9:ai_can_idps_net_init	2
+../X-CUBE-AI/App/can_idps_net.c:683:8:ai_can_idps_net_run	1
+../X-CUBE-AI/App/can_idps_net.c:691:8:ai_can_idps_net_forward	1

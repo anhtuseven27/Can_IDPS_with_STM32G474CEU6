@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/can_idps_net.c:414:9:can_idps_net_configure_activations	16	static
+../X-CUBE-AI/App/can_idps_net.c:451:9:can_idps_net_configure_weights	16	static
+../X-CUBE-AI/App/can_idps_net.c:490:9:ai_can_idps_net_get_info	160	static
+../X-CUBE-AI/App/can_idps_net.c:537:9:ai_can_idps_net_get_report	160	static
+../X-CUBE-AI/App/can_idps_net.c:584:10:ai_can_idps_net_get_error	16	static
+../X-CUBE-AI/App/can_idps_net.c:591:10:ai_can_idps_net_create	24	static
+../X-CUBE-AI/App/can_idps_net.c:602:10:ai_can_idps_net_create_and_init	88	static
+../X-CUBE-AI/App/can_idps_net.c:637:12:ai_can_idps_net_inputs_get	16	static
+../X-CUBE-AI/App/can_idps_net.c:648:12:ai_can_idps_net_outputs_get	16	static
+../X-CUBE-AI/App/can_idps_net.c:659:11:ai_can_idps_net_destroy	16	static
+../X-CUBE-AI/App/can_idps_net.c:666:9:ai_can_idps_net_init	24	static
+../X-CUBE-AI/App/can_idps_net.c:683:8:ai_can_idps_net_run	24	static
+../X-CUBE-AI/App/can_idps_net.c:691:8:ai_can_idps_net_forward	16	static

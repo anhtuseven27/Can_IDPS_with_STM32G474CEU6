@@ -1,0 +1,4 @@
+../Core/Src/can_idps_processor.c:11:24:fast_log2_q4	32	static
+../Core/Src/can_idps_processor.c:19:22:clamp_to_int8	16	static
+../Core/Src/can_idps_processor.c:25:6:CAN_IDPS_Init	16	static
+../Core/Src/can_idps_processor.c:32:6:CAN_IDPS_ExtractFeatures	56	static
